@@ -11,17 +11,14 @@
  	
  	<div class="header">
    		<h1>JAH'MELAH MAAT-HOTEP</h1> 
-   		
 	</div>
-`	<div class="description">
-		~Current High School Computer Programmer~
-		</div>
+
 	<div class="navbuttons">
-	 	<a href="aboutme.php"><button type="button" class="btn btn-primary" autocomplete="off">
-	  		ABOUT ME
+	 	<a href="index.php"><button type="button" class="btn btn-primary" autocomplete="off">
+	  		HOME
 		</button></a>
 	
-	 	<a href="contact.html"><button type="button" class="btn btn-contact"  autocomplete="off">
+	 	<a href="contact.php"><button type="button" class="btn btn-contact" autocomplete="off">
 	  		CONTACT
 		</button></a>
 
@@ -29,8 +26,9 @@
 	  		PROJECTS
 		</button></a>
 	</div>
-
-	
+	<div class="description">
+		~Current High School Computer Programmer~
+	</div>
 
  	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
  	<script type="text/javascript" src="js/bootstrap.min.js"></script>
