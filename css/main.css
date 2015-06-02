@@ -15,11 +15,11 @@ body{
 
 }
 .description{
-	color: pink;
+	color: white;
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 24px;
 	text-align: center;
-	margin-top: 50px
+	margin-top: 30px
 }
 
 h1{
@@ -32,14 +32,14 @@ h1{
 	margin-right: 50px;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	color: pink;
+	color: #BD4777;
 	font-family: 'Londrina Outline', cursive;
 	font-size: 70px;
 	font-weight: 600; 
 }
 
 .btn-primary{
-	background-color: pink;
+	background-color:  #A30042;
 	margin-left: 300px;
 	font-family: 'Londrina Outline', cursive;
 	font-size: 24px;
@@ -47,7 +47,7 @@ h1{
 	font-weight: 600; 
 }
 .btn-contact{
-	background-color: pink;
+	background-color: #A30042;
 	margin-left: 50px;
 	color: white;
 	font-family: 'Londrina Outline', cursive;
@@ -57,7 +57,7 @@ h1{
 }
 
 .btn-projects{
-	background-color: pink;
+	background-color:#A30042;
 	margin-left: 50px;
 	color: white;
 	font-family: 'Londrina Outline', cursive;
@@ -68,17 +68,17 @@ h1{
 
 .navbuttons{
 	margin-left:150px;
-	margin-top: 80px;
+	margin-top: 40px;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
     background-color: grey;
-    color: pink;
+    color: #A30042;
 }
 .btn-contact:hover, .btn-contact:focus, .btn-contact:active, .btn-contact.active, .open > .dropdown-toggle.btn-contact {
     background-color: grey;
-    color: pink;
+    color: #A30042;
 }
 .btn-projects:hover, .btn-projects:focus, .btn-projects:active, .btn-projects.active, .open > .dropdown-toggle.btn-projects {
     background-color: grey;
-    color: pink;
+    color: #A30042;
 }

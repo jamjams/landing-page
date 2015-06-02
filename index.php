@@ -21,7 +21,7 @@
 	  		ABOUT ME
 		</button></a>
 	
-	 	<a href="contact.html"><button type="button" class="btn btn-contact"  autocomplete="off">
+	 	<a href="contact.php"><button type="button" class="btn btn-contact"  autocomplete="off">
 	  		CONTACT
 		</button></a>
 

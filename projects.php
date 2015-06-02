@@ -14,15 +14,15 @@
 	</div>
 	
 	<div class="navbuttons">
-	 	<a href="http://localhost/landingpage/aboutme.php"><button type="button" class="btn btn-primary" data-toggle="button" aria-pressed="false" autocomplete="off">
+	 	<a href="aboutme.php"><button type="button" class="btn btn-primary" autocomplete="off">
 	  		ABOUT ME
 		</button></a>
 	
-	 	<a href="http://localhost/landingpage/contact.php"><button type="button" class="btn btn-contact" data-toggle="button" aria-pressed="false" autocomplete="off">
+	 	<a href="contact.php"><button type="button" class="btn btn-contact" autocomplete="off">
 	  		CONTACT
 		</button></a>
 
-		<a href="http://localhost/landingpage/index.php"><button type="button" class="btn btn-projects" data-toggle="button" aria-pressed="false" autocomplete="off">
+		<a href="index.php"><button type="button" class="btn btn-projects" autocomplete="off">
 	  		HOME
 		</button></a>
 	</div>
@@ -38,20 +38,20 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="http://placehold.it/300x315" alt="...">
-      <div class="carousel-caption">
+      <img src="/landingpage/pics/instagramproject.png" alt="...">
+      <div class="caption">
+      	<h3>Instagram Api Home page</h3>
+      </div>
+    </div>
+    <div class="item">
+      <img src="http://vanimg.s3.amazonaws.com/blog-design-15.jpg" alt="...">
+      <div class="caption">
       	<h3>Caption Text</h3>
       </div>
     </div>
     <div class="item">
       <img src="http://placehold.it/300x315" alt="...">
-      <div class="carousel-caption">
-      	<h3>Caption Text</h3>
-      </div>
-    </div>
-    <div class="item">
-      <img src="http://placehold.it/300x315" alt="...">
-      <div class="carousel-caption">
+      <div class="caption">
       	<h3>Caption Text</h3>
       </div>
     </div>
