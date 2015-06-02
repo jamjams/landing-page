@@ -14,7 +14,7 @@
    		
 	</div>
 `	<div class="description">
-		~Current High School Computer Programmer~
+		~Aspiring High School Computer Programmer~
 		</div>
 	<div class="navbuttons">
 	 	<a href="aboutme.php"><button type="button" class="btn btn-primary" autocomplete="off">
