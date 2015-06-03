@@ -166,3 +166,175 @@ h1{
 	color:#DB4D94;
 	margin-top: 10px;
 }
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation : portrait) {
+	@import url(http://fonts.googleapis.com/css?family=Londrina+Outline);
+	@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
+	body{
+		background-image: url("http://www.ipw9.com/wp-content/uploads/2015/05/ipw958ai.jpg");
+		background-position: center;
+		background-attachment: fixed;
+		background-size: 100%;
+	}
+
+	.header {
+		margin-top: 10px;
+		/*border-bottom: 2px solid black;
+		border-top: 2px solid black;*/
+		text-align: center; 
+
+	}
+	.description{
+		color: pink;
+		font-family: 'Open Sans Condensed', sans-serif;
+		font-size: 50px;
+		text-align: center;
+		margin-top: 50px;
+		background: rgba(0, 0, 0, 0.8);
+	    padding: 15px;
+	    border: 15px solid #DB4D94;
+	    margin-left: 150px;
+	    margin-right:25px;
+	    margin-bottom: 25px;
+	    width: 700px;
+	}
+
+	h1{
+		margin-top: 40px;
+		border-bottom: 6px double white;
+		border-top: 6px double white;
+		border-right: 6px double white;
+		border-left: 6px double white;
+		margin-left: 50px;
+		margin-right: 50px;
+		padding-top: 20px;
+		padding-bottom: 20px;
+		color: #DB4D94;
+		font-family: 'Londrina Outline', cursive;
+		font-size: 150px;
+		font-weight: 600; 
+	}
+
+	.btn-primary{
+		background-color: #DB4D94;
+		margin-left: 50px;
+		font-family: 'Londrina Outline', cursive;
+		font-size: 50px;
+		color: black;
+		font-weight: 600; 
+	}
+	.btn-contact{
+		background-color:#DB4D94;
+		margin-left: 50px;
+		color: white;
+		font-family: 'Londrina Outline', cursive;
+		font-size: 50px;
+		color: black;
+		font-weight: 600; 
+	}
+
+	.btn-projects{
+		background-color: #DB4D94;
+		margin-left: 50px;
+		color: white;
+		font-family: 'Londrina Outline', cursive;
+		font-size: 50px;
+		color: black;
+		font-weight: 600; 
+	}
+
+	.btn-ymail{
+		background-color: purple;
+		
+
+		font-family: 'Londrina Outline', cursive;
+		font-size: 50px;
+		color:#FFFFFF;
+		font-weight: 600; 
+	}
+	.btn-gmail{
+		background-color:#FF0000;
+		margin-left: 10px;
+		color: white;
+		font-family: 'Londrina Outline', cursive;
+		font-size: 50px;
+		color: #FFFFFF;
+		font-weight: 600; 
+	}
+
+	.btn-facebook{
+		background-color: #3B5998;
+		margin-left: 10px;
+		color: white;
+		font-family: 'Londrina Outline', cursive;
+		font-size: 50px;
+		color: white;
+		font-weight: 600; 
+	}
+	.navbuttons{
+		margin-left:200px;
+		margin-top: 40px;
+	}
+	.contactbuttons{
+		margin-top: 20px;
+
+	}
+	.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+	    background-color: grey;
+	    color: #DB4D94;
+	}
+	.btn-contact:hover, .btn-contact:focus, .btn-contact:active, .btn-contact.active, .open > .dropdown-toggle.btn-contact {
+	    background-color: grey;
+	    color: #DB4D94;
+	}
+	.btn-projects:hover, .btn-projects:focus, .btn-projects:active, .btn-projects.active, .open > .dropdown-toggle.btn-projects {
+	    background-color: grey;
+	    color: #DB4D94;
+	}
+	.btn-ymail:hover, .btn-ymail:focus, .btn-ymail:active, .btn-ymail.active, .open > .dropdown-toggle.btn-ymail {
+	    background-color: #FFFFFF;
+	    color: purple;
+	}
+	.btn-gmail:hover, .btn-gmail:focus, .btn-gmail:active, .btn-gmail.active, .open > .dropdown-toggle.btn-gmail {
+	    background-color: #FFFFFF;
+	    color: red;
+	}
+	.btn-facebook:hover, .btn-facebook:focus, .btn-facebook:active, .btn-facebook.active, .open > .dropdown-toggle.btn-projects {
+	    background-color:#FFFFFF;
+	    color: #3B5998;
+	}
+
+	#contact_form{
+		margin-left: 575px;
+		color: purple;
+	}
+
+
+
+	/* div styles for presentation */
+
+
+	/* General rule */
+	.button-big
+	{
+		display: inline-block;
+	  font-size: 2.5em;
+	  width: 4em;
+	  text-align:center;
+	  margin-left: 200px;
+
+	  text-align: center;
+
+	  /*padding: 0.2em 0em 0.2em 0em;*/
+	}
+
+
+	/* Links */
+	.email{
+		text-align: center;
+		font-size: 50px;
+		color:#DB4D94;
+		margin-top: 10px;
+	}
+
+}

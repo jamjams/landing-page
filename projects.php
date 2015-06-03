@@ -46,13 +46,13 @@
     <div class="item">
       <img src="http://vanimg.s3.amazonaws.com/blog-design-15.jpg" alt="...">
       <div class="caption">
-      	<h3>Caption Text</h3>
+      	<h3>My blog project</h3>
       </div>
     </div>
     <div class="item">
-      <img src="http://placehold.it/300x315" alt="...">
+      <img src="http://img.youtube.com/vi/4NootvRYOm4/0.jpg" alt="...">
       <div class="caption">
-      	<h3>Caption Text</h3>
+      	<h3>My Awesomenauts Game</h3>
       </div>
     </div>
   </div>
